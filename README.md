@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Siddharth Sengupta.</h1>
-
-<h3 align="center">I'm a full-stack web developer with a keen interest in backend technologies</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
